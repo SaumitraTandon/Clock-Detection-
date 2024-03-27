@@ -33,10 +33,6 @@ The notebook will process the specified image and display the result with detect
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - The OpenCV library and its contributors.
